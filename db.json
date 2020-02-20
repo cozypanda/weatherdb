@@ -1,0 +1,270 @@
+{
+    "stations": [
+        {
+            "id": 17675,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.6,
+            "latitude": 8.87,
+            "elevation": 325,
+            "stationName": "TCHAOUROU",
+            "officialId": "BN000005331"
+        },
+        {
+            "id": 17676,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.43,
+            "latitude": 7.98,
+            "elevation": 198,
+            "stationName": "SAVE",
+            "officialId": "BN000005335"
+        },
+        {
+            "id": 17677,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.38,
+            "latitude": 6.35,
+            "elevation": 4,
+            "stationName": "COTONOU",
+            "officialId": "BN000005344"
+        },
+        {
+            "id": 17679,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.467,
+            "latitude": 8.032,
+            "elevation": 200,
+            "stationName": "SAVE",
+            "officialId": "BN000065335"
+        },
+        {
+            "id": 17680,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.617,
+            "latitude": 9.35,
+            "elevation": 393,
+            "stationName": "PARAKOU",
+            "officialId": "BNM00065330"
+        },
+        {
+            "id": 17681,
+            "state": null,
+            "country": {
+                "id": 25,
+                "name": "Benin",
+                "code": "BN"
+            },
+            "longitude": 2.067,
+            "latitude": 7.167,
+            "elevation": 167,
+            "stationName": "BOHICON",
+            "officialId": "BNM00065338"
+        },
+        {
+            "id": 34322,
+            "state": null,
+            "country": {
+                "id": 75,
+                "name": "Ghana",
+                "code": "GH"
+            },
+            "longitude": 0.467,
+            "latitude": 6.6,
+            "elevation": 158,
+            "stationName": "HO",
+            "officialId": "GHM00065453"
+        },
+        {
+            "id": 34325,
+            "state": null,
+            "country": {
+                "id": 75,
+                "name": "Ghana",
+                "code": "GH"
+            },
+            "longitude": 0.117,
+            "latitude": 6.1,
+            "elevation": 19,
+            "stationName": "AKUSE",
+            "officialId": "GHM00065460"
+        },
+        {
+            "id": 34329,
+            "state": null,
+            "country": {
+                "id": 75,
+                "name": "Ghana",
+                "code": "GH"
+            },
+            "longitude": 0.0,
+            "latitude": 5.617,
+            "elevation": 18,
+            "stationName": "TEMA",
+            "officialId": "GHM00065473"
+        },
+        {
+            "id": 34330,
+            "state": null,
+            "country": {
+                "id": 75,
+                "name": "Ghana",
+                "code": "GH"
+            },
+            "longitude": 0.633,
+            "latitude": 5.783,
+            "elevation": 7,
+            "stationName": "ADA",
+            "officialId": "GHM00065475"
+        },
+        {
+            "id": 46097,
+            "state": null,
+            "country": {
+                "id": 146,
+                "name": "Nigeria",
+                "code": "NI"
+            },
+            "longitude": 4.494,
+            "latitude": 8.44,
+            "elevation": 343,
+            "stationName": "ILORIN",
+            "officialId": "NIM00065101"
+        },
+        {
+            "id": 46101,
+            "state": null,
+            "country": {
+                "id": 146,
+                "name": "Nigeria",
+                "code": "NI"
+            },
+            "longitude": 3.321,
+            "latitude": 6.577,
+            "elevation": 41,
+            "stationName": "MURTALA MUHAMMED",
+            "officialId": "NIM00065201"
+        },
+        {
+            "id": 51911,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.13,
+            "latitude": 8.98,
+            "elevation": 400,
+            "stationName": "SOKODE",
+            "officialId": "TO000005361"
+        },
+        {
+            "id": 51912,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.12,
+            "latitude": 7.58,
+            "elevation": 402,
+            "stationName": "ATAKPANE",
+            "officialId": "TO000005376"
+        },
+        {
+            "id": 51913,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.5,
+            "latitude": 6.58,
+            "elevation": 51,
+            "stationName": "TABLIGBO",
+            "officialId": "TO000005380"
+        },
+        {
+            "id": 51914,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.25,
+            "latitude": 6.17,
+            "elevation": 20,
+            "stationName": "LOME",
+            "officialId": "TO000005387"
+        },
+        {
+            "id": 51917,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.091,
+            "latitude": 9.767,
+            "elevation": 462,
+            "stationName": "NIAMTOUGOU INTERNATIONAL",
+            "officialId": "TOM00065355"
+        },
+        {
+            "id": 51918,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.167,
+            "latitude": 9.55,
+            "elevation": 341,
+            "stationName": "KARA",
+            "officialId": "TOM00065357"
+        },
+        {
+            "id": 51919,
+            "state": null,
+            "country": {
+                "id": 196,
+                "name": "Togo",
+                "code": "TO"
+            },
+            "longitude": 1.255,
+            "latitude": 6.166,
+            "elevation": 22,
+            "stationName": "GNASSINGBE EYADEMA INTL",
+            "officialId": "TOM00065387"
+        }
+    ]
+}0
